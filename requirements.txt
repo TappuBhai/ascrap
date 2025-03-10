@@ -1,0 +1,5 @@
+Python 3.12.8
+bs4
+asyncio
+aiohttp[speedups]
+json
